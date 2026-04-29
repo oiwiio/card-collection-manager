@@ -1,10 +1,10 @@
-// Литеральный тип для статуса карточки
+// литеральный тип для статуса карточки
 export type CardStatus = 'in_collection' | 'for_sale' | 'for_trade';
 
-// Литеральный тип для редкости
+// литеральный тип для редкости
 export type Rarity = 'common' | 'uncommon' | 'rare' | 'mythic';
 
-// Литеральный тип для состояния карточки
+// литеральный тип для состояния карточки
 export type Condition = 'mint' | 'near_mint' | 'played' | 'poor';
 
 // главная сущность проекта
